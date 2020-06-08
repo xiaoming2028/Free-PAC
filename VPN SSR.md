@@ -1,8 +1,8 @@
 ## 一、Just My Socks 介绍
 
-[Just My Socks官网](https://bit.ly/2RiBE6a)
+[Just My Socks官网](https://bit.ly/2MCrWJd)
 
-Just My Socks 是搬瓦工官方出品的 ss 加速器，品质有保障！！！最低价格 $2.88 一个月，每月流量 100GB，提供多个域名供连接，并且保证可用，IP被封自动更换IP，不需要任何操作，也不需要其它费用。全部都是美西 CN2 GIA 线路，速度很快很稳定。现在 [Just My Socks]([Just My Socks官网](https://bit.ly/2RiBE6a)
+Just My Socks 是搬瓦工官方出品的 ss 加速器，品质有保障！！！最低价格 $2.88 一个月，每月流量 100GB，提供多个域名供连接，并且保证可用，IP被封自动更换IP，不需要任何操作，也不需要其它费用。全部都是美西 CN2 GIA 线路，速度很快很稳定。现在 [Just My Socks]([Just My Socks官网](https://bit.ly/2MCrWJd)
 ) 已支持**支付宝**支付
 
 **如果你就只想加速上个网，又担心购买 VPS 之后 IP 被墙、端口被封很麻烦，对折腾 VPS 什么的很苦恼，强烈推荐你入手，省心省时省力。**
@@ -24,7 +24,7 @@ Just My Socks 是搬瓦工官方出品的 ss 加速器，品质有保障！！�
 
 ## 二、Just My Socks 注册
 
-点击打开 [**Just My Socks 官网**]([Just My Socks官网](https://bit.ly/2RiBE6a)
+点击打开 [**Just My Socks 官网**]([Just My Socks官网](https://bit.ly/2MCrWJd)
 )
 
 先选择语言为中文，然后点击 **Browse ALL**
@@ -47,7 +47,7 @@ Just My Socks 是搬瓦工官方出品的 ss 加速器，品质有保障！！�
 
  
 
-输入 **[Just My Socks 优惠码]([Just My Socks官网](https://bit.ly/2RiBE6a)
+输入 **[Just My Socks 优惠码]([Just My Socks官网](https://bit.ly/2MCrWJd)
 )** （**JMS9272283**） 点击检验代码   可享受 5.2% 的折扣
 
 ![](https://img2018.cnblogs.com/blog/1765496/202002/1765496-20200218130454544-1669234536.png)
