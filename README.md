@@ -195,6 +195,7 @@ v2ray bbr
 
 只是还想再啰嗦一下，如果你是使用国际大厂的 VPS，并且是按照此教程流程来安装 V2Ray 的话，请自行在安全组 (防火墙) 开放端口和 UDP 协议 (如果你要使用含有 mKCP 的传输协议)
 
+
 ## 5、客户端配置
 
 下载地址：[客户端](https://github.com/v2ray/v2ray-core/releases)
