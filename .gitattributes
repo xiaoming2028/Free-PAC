@@ -1,4 +1,4 @@
-*.js linguist-language=Go
-*.css linguist-language=Go
-*.html linguist-language=Go
-*.md linguist-language=Go
+*.js linguist-language=Python
+*.css linguist-language=Python
+*.html linguist-language=Python
+*.md linguist-language=Python
