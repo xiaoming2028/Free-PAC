@@ -1,6 +1,6 @@
 ## 梯子-科学上网 请访问：科学上网工具使用教程：
 
-**[https://github.com/xiaoming2028/kexueshangwang/wiki](https://bit.ly/2XCPmTv)**
+**[https://github.com/xiaoming2028/kexueshangwang/wiki](https://github.com/xiaoming2028/FreePAC/wiki)**
 
 .
 .
@@ -16,11 +16,11 @@
 
 ## ===VPS推荐===
 
-1、[**Hostwinds**](https://bit.ly/2RkMzMK) 是一家美国主机商，成立于 2010 年，国内站长使用较多的是 Hostwinds 美国 VPS 主机产品。由于 [Hostwinds](https://bit.ly/2UQ0Zqd) 美国 VPS 主机采用的是 SSD 硬盘，而且所有方案都有全球 CDN 加速功能，因而也备受用户青睐。 如今 Hostwinds 主机商提供的产品方案也非常丰富，包括虚拟主机、云主机、VPS主机以及独立主机等。目前 [Hostwinds](https://bit.ly/2RkMzMK) 主要有达拉斯、西雅图 2 个数据中心，其中西雅图数据中心在国内访问速度最快。
+1、[**Hostwinds**](https://affiliates.hostwinds.com/hostwinds.php?id=7011&tid2=github&url=1224) 是一家美国主机商，成立于 2010 年，国内站长使用较多的是 Hostwinds 美国 VPS 主机产品。由于 [Hostwinds](https://affiliates.hostwinds.com/hostwinds.php?id=7011&tid2=github&url=1216) 美国 VPS 主机采用的是 SSD 硬盘，而且所有方案都有全球 CDN 加速功能，因而也备受用户青睐。 如今 Hostwinds 主机商提供的产品方案也非常丰富，包括虚拟主机、云主机、VPS主机以及独立主机等。目前 [Hostwinds](https://affiliates.hostwinds.com/hostwinds.php?id=7011&tid2=github&url=1216) 主要有达拉斯、西雅图 2 个数据中心，其中西雅图数据中心在国内访问速度最快。
 
 现在 [Hostwinds](https://bit.ly/2UQ0Zqd) 提供免费更换IP了，没错，就是免费，免费，随意更换，可以一键解决 IP 被墙的问题了。
 
-限时活动，通过 [**本优惠链接**](https://bit.ly/2UQ0Zqd) 进入Hostwinds 首页可以获得 6 折优惠，支持支付宝付款，欢迎购买注册。
+限时活动，通过 [**本优惠链接**](https://affiliates.hostwinds.com/hostwinds.php?id=7011&tid2=github&url=1224) 进入Hostwinds 首页可以获得 6 折优惠，支持支付宝付款，欢迎购买注册。
 
 
 .
@@ -59,7 +59,7 @@ V2Ray是在Shadowsocks的作者被请喝茶之后出现的一个开源项目，�
 
 首先确认不要使用任何代理，网络是什么 IP 就是什么 IP ，不然可能需要人工审核，导致 Hostwinds VPS 购买显示 "Pending" 状态， 不能即时创建服务激活。
 
-1、通过[ Hostwinds 优惠链接进入](https://bit.ly/2UQ0Zqd)Hostwinds 首页，选择 “VPS” 下的 "Unmanaged VPS" ，这里是最便宜的**(注意千万不要选择页面上 3.29 美元那个，那个是虚拟空间，不是 VPS !!!)**。
+1、通过[ Hostwinds 优惠链接进入](https://affiliates.hostwinds.com/hostwinds.php?id=7011&tid2=github&url=1224)Hostwinds 首页，选择 “VPS” 下的 "Unmanaged VPS" ，这里是最便宜的**(注意千万不要选择页面上 3.29 美元那个，那个是虚拟空间，不是 VPS !!!)**。
 
 ![](https://img2018.cnblogs.com/blog/1765496/202002/1765496-20200218123839832-773141474.jpg)
 
@@ -214,9 +214,9 @@ v2ray bbr
 
 以上就是美国 VPS [Hostwinds](https://bit.ly/2RkMzMK) 搭建 V2Ray 的教程，通过教可以轻松实现 Hostwinds 搭建 V2Ray，希望可以帮助需要使用 Hostwinds 搭建 V2Ray 的朋友。
 
-[Hostwinds 最好美国VPS低至4.49美元/月](https://bit.ly/2RkMzMK)，支持支付宝付款，欢迎购买注册。
+[Hostwinds 最好美国VPS低至4.49美元/月](https://affiliates.hostwinds.com/hostwinds.php?id=7011&tid2=github&url=1224)，支持支付宝付款，欢迎购买注册。
 
 
 ## 梯子-科学上网 请访问：科学上网工具使用教程：
 
-**https://github.com/xiaoming2028/kexueshangwang/wiki**
+**[https://github.com/xiaoming2028/kexueshangwang/wiki](https://github.com/xiaoming2028/kexueshangwang/wiki)**
