@@ -221,8 +221,10 @@ v2ray bbr
 
 **[https://github.com/xiaoming2028/kexueshangwang/wiki](https://github.com/xiaoming2028/FreePAC/wiki)**
 
-点赞分享
-点赞：如果你喜欢本项目，如果您是github用户，请给我们“点个赞”，请点GitHub右上角的star。同时您还可以通过GitHub的Fork功能（点右上角Fork）备份和二次开发本项目。
+### 点赞分享
 
-收藏：也推荐您可以将当前页面网址放入您的浏览器收藏夹、书签栏等
-收藏方法：电脑访问可按Ctrl+D 键，手机访问请按手机收藏方法收藏
+**点赞**：如果你喜欢本项目，如果您是github用户，请给我们“点个赞”，请点GitHub右上角的star。同时您还可以通过GitHub的Fork功能（点右上角Fork）备份和二次开发本项目。
+
+**收藏**：也推荐您可以将当前页面网址放入您的浏览器收藏夹、书签栏等
+
+**收藏方法**：电脑访问可按Ctrl+D 键，手机访问请按手机收藏方法收藏
