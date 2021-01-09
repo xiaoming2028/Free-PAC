@@ -27,6 +27,8 @@
 .
 .
 
+#### 如果无法查看图片，可以访问：[美国VPS一键脚本搭建V2Ray最新中文教程](https://freepac.siterubix.com/%e7%be%8e%e5%9b%bdvps-hostwinds%e4%b8%80%e9%94%ae%e8%84%9a%e6%9c%ac%e6%90%ad%e5%bb%bav2ray%e6%9c%80%e6%96%b0%e4%b8%ad%e6%96%87%e6%95%99%e7%a8%8b/)
+
 ## **1、V2Ray简介**
 
 #### **什么是V2Ray**
