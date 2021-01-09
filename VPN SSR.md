@@ -1,9 +1,10 @@
+#### 如果无法查看图片，可以访问：[Just My Socks SSR 机场使用教程](https://freepac.siterubix.com/just-my-socks-ssr-%e6%9c%ba%e5%9c%ba%e4%bd%bf%e7%94%a8%e6%95%99%e7%a8%8b/)
+
 ## 一、Just My Socks 介绍
 
-[Just My Socks官网](https://bit.ly/2MCrWJd)
+[Just My Socks官网](https://justmysocks3.net/members/aff.php?aff=4355)
 
-Just My Socks 是搬瓦工官方出品的 ss 加速器，品质有保障！！！最低价格 $2.88 一个月，每月流量 100GB，提供多个域名供连接，并且保证可用，IP被封自动更换IP，不需要任何操作，也不需要其它费用。全部都是美西 CN2 GIA 线路，速度很快很稳定。现在 [Just My Socks]([Just My Socks官网](https://bit.ly/2MCrWJd)
-) 已支持**支付宝**支付
+Just My Socks 是搬瓦工官方出品的 ss 加速器，品质有保障！！！最低价格 $2.88 一个月，每月流量 100GB，提供多个域名供连接，并且保证可用，IP被封自动更换IP，不需要任何操作，也不需要其它费用。全部都是美西 CN2 GIA 线路，速度很快很稳定。现在 [Just My Socks](https://justmysocks3.net/members/aff.php?aff=4355) 已支持**支付宝**支付
 
 **如果你就只想加速上个网，又担心购买 VPS 之后 IP 被墙、端口被封很麻烦，对折腾 VPS 什么的很苦恼，强烈推荐你入手，省心省时省力。**
 
@@ -24,7 +25,7 @@ Just My Socks 是搬瓦工官方出品的 ss 加速器，品质有保障！！�
 
 ## 二、Just My Socks 注册
 
-点击打开 [**Just My Socks 官网**]([Just My Socks官网](https://bit.ly/2MCrWJd)
+点击打开 [**Just My Socks 官网**]([Just My Socks官网](https://justmysocks3.net/members/aff.php?aff=4355)
 )
 
 先选择语言为中文，然后点击 **Browse ALL**
@@ -47,7 +48,7 @@ Just My Socks 是搬瓦工官方出品的 ss 加速器，品质有保障！！�
 
  
 
-输入 **[Just My Socks 优惠码]([Just My Socks官网](https://bit.ly/2MCrWJd)
+输入 **[Just My Socks 优惠码]([Just My Socks官网](https://justmysocks3.net/members/aff.php?aff=4355)
 )** （**JMS9272283**） 点击检验代码   可享受 5.2% 的折扣
 
 ![](https://img2018.cnblogs.com/blog/1765496/202002/1765496-20200218130454544-1669234536.png)
